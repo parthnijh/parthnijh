@@ -43,9 +43,9 @@
   <a href="https://www.linkedin.com/in/parth-nijhawan-937392331/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="parthnijhawan777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <p>parthnijhawan777@gmail.com</p>
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+
 </p>
 
 ---
