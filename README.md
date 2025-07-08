@@ -8,7 +8,7 @@
 ### 🧩 Character Stats
 
 - 🧠 Level: Intermediate Dev
-- ⚔️ Strengths: Frontenb, ML, Backend Basics
+- ⚔️ Strengths: Frontend, ML, Backend Basics
 - 🎓 Guild: SSCBS |
 - 🧭 Alignment: Learning > Perfection
 
