@@ -7,34 +7,45 @@
 
 ### 🧩 Character Stats
 
+- 🧠 Level: Intermediate Dev
+- ⚔️ Strengths: Frontend, ML, Backend Basics
+- 🎓 Guild: SSCBS | Yuva E-Cell
+- 🧭 Alignment: Learning > Perfection
+
 ---
 
 ### 🔧 Tech Inventory
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,js,ts,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,js,python,cpp,c,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Numpy-informational?style=flat&logo=numpy&logoColor=white&color=blue" />
+  <img src="https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=purple" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=orange" />
+  <img src="https://img.shields.io/badge/Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=blueviolet" />
 </p>
 
 ---
 
-### 📊 Battle Stats
-
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthnjh&show_icons=true&theme=tokyonight&border_radius=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parthnjh&theme=tokyonight&border_radius=10)
-
----
-
 ### 🧠 Side Quests
-- 🌱 Currently exploring Kaggle + Scikit-learn
-- 🎯 Building an ML-based Cricket Run Predictor
-- 🛠️ Co-building a chatbot with Gemini API
+
+- 🌱 Exploring Kaggle + Scikit-learn
+- 🏏 Building an ML-based Cricket Run Predictor
+- 🤖 Co-developing a chatbot with Gemini API
 
 ---
 
 ### 📫 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/parth-nijhawan-937392331/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:parthnijhawan777@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/parth-nijhawan-937392331/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:parthnijhawan777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
