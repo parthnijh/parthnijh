@@ -8,8 +8,8 @@
 ### 🧩 Character Stats
 
 - 🧠 Level: Intermediate Dev
-- ⚔️ Strengths: Frontend, ML, Backend Basics
-- 🎓 Guild: SSCBS | Yuva E-Cell
+- ⚔️ Strengths: Frontenb, ML, Backend Basics
+- 🎓 Guild: SSCBS |
 - 🧭 Alignment: Learning > Perfection
 
 ---
@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/parth-nijhawan-937392331/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:parthnijhawan777@gmail.com">
+  <a href="parthnijhawan777@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
